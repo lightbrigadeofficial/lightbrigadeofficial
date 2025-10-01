@@ -1,3 +1,5 @@
+<img src="Assets/Black Technology LinkedIn Banner.png">
+
 # Hi there 👋, my name is M Vandam Singha
 ### 💻 Web Developer | Tech Enthusiast | Budding Cybersecurity
 
