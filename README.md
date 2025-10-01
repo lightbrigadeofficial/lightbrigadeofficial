@@ -41,7 +41,7 @@ When I’m not experimenting with HTML/CSS or tinkering with security tools 💻
 ### 📈 GitHub Stats  
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=lightbrigadeofficial&show_icons=true&theme=radical" alt="stats" height="200" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjmalShahabudeen&theme=radical&hide_border=false" alt="stats" height="200" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightbrigadeofficial&theme=radical&hide_border=false" alt="stats" height="200" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightbrigadeofficial&layout=compact&theme=radical" alt="langs" height="200" />
 </p>
 
