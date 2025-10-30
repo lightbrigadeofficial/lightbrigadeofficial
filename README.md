@@ -40,13 +40,41 @@ When I’m not experimenting with HTML/CSS or tinkering with security tools 💻
 </p>
 
 ---
+### 🧩 Projects Overview  
 
-### 📈 GitHub Stats  
+#### 🌐 Web Hub
+| Project | Description |
+|----------|--------------|
+| [portfolio2.0](https://github.com/lightbrigadeofficial/portfolio2.0) | Official Portfolio Website |
+| [linkspace](https://github.com/lightbrigadeofficial/linkspace) | Home to Links |
+
+#### ⚙️ Public Projects
+| Project | Description |
+|----------|--------------|
+| [Brigade-Store](https://github.com/lightbrigadeofficial/Brigade-Store) | Small bookstore platform demo |
+| [marpu](https://github.com/lightbrigadeofficial/marpu) | Marpu Foundation Intern (for an unpaid client immediate delivery) |
+| [sfsncc](https://github.com/lightbrigadeofficial/sfsncc) | Demo type NCC portal for St.Francis De Sales School, Ghy |
+| [lightbrigadeofficial](https://github.com/lightbrigadeofficial/lightbrigadeofficial) | Profile Readme |
+
+#### 🔬 Experiments & Learning
+| Project | Description | Tag |
+|----------|--------------|--------|
+| 🔒 diinki-rice-dot-files | Linux Rice | `Confidential` |
+| [Kanglasha](https://github.com/lightbrigadeofficial/kanglasha) | Ecommmerce Mockup Experiment | `Public` |
+| 🔒 Products_Kanglasha | Supplement of [Kanglasha] (https://github.com/lightbrigadeofficial/kanglasha) | `Confidential` |
+| [github-profile-3d-contrib](https://github.com/lightbrigadeofficial/github-profile-3d-contrib) | Forked Github profile mapping | `Public` |
+| [business-entities-pptx](https://github.com/lightbrigadeofficial/business-entities-pptx) | Unpaid project favor for fellow chap | `Public` |
+| [veracity](https://github.com/lightbrigadeofficial/veracity) | Blog Page mockup experiment | `Public` |
+| [javascript-course](https://github.com/lightbrigadeofficial/javascript-course) | JS free-yt course | `Public` |
+| [site](https://github.com/lightbrigadeofficial/site) | Dummy Org Page (1st code-based website) | `Public` |
+
+
+<!--### 📈 GitHub Stats  
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=lightbrigadeofficial&show_icons=true&theme=radical" alt="stats" height="200" /> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightbrigadeofficial&theme=radical&hide_border=false" alt="stats" height="200" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightbrigadeofficial&layout=compact&theme=radical" alt="langs" height="200" />
-</p>
+</p>-->
 
 ---
 
