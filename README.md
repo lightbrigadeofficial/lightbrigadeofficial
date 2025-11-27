@@ -68,7 +68,7 @@ When I’m not experimenting with HTML/CSS or tinkering with security tools 💻
 | [veracity](https://github.com/lightbrigadeofficial/veracity) | Blog Page mockup experiment | `Public` |
 | [javascript-course](https://github.com/lightbrigadeofficial/javascript-course) | JS free-yt course | `Public` |
 | [site](https://github.com/lightbrigadeofficial/site) | Dummy Org Page (1st code-based website) | `Public` |
-| 🦆  [cs50](https://github.com/lightbrigadeofficial/cs50) | My Harvard University CS50 course | `Public` |
+| 🦆  [cs50x-2025](https://github.com/lightbrigadeofficial/cs50x-2025) | My Harvard University CS50 course | `Public` |
 | [dotfiles-cloned](https://github.com/lightbrigadeofficial/dotfiles-cloned) | Cloned Dot-files| `Public` |
 
 
